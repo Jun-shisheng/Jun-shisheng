@@ -40,7 +40,7 @@
 
 ## About
 
-- Undergraduate, still learning. I'd rather ship small working tools than collect badges.
-- Local-first by default: weights on my own GPU, data in my own folders.
-- Currently exploring agent tooling, game-engine automation, and AI-assisted creative work.
-- Mandarin / English.
+- Still learning. Most of what's here is small experiments rather than finished work, so expect rough edges.
+- I prefer keeping things local: models running offline, data in plain folders, as few round trips as possible.
+- Interested in agent tooling, game-engine automation, and AI-assisted creative work.
+- Corrections, issues and suggestions are always welcome.
