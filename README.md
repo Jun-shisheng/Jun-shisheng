@@ -4,7 +4,7 @@
 
 <img width="100%" alt="Junshisheng" src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:e2e8f0,100:cbd5e1&height=180&section=header&text=Junshisheng&fontSize=70&fontColor=0f172a&animation=fading&fontAlignY=34&desc=Local-first%20AI%20tooling%20%C2%B7%20Agent%20systems&descAlignY=56&descSize=16&descColor=475569" />
 
-<img alt="What I work on" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=1f6feb&center=true&vCenter=true&width=600&lines=Undergraduate+%C2%B7+local-first+AI+tooling;LLM+apps+on+a+local+GPU;Agent+tooling+for+game+engines" />
+<img alt="What I work on" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=1f6feb&center=true&vCenter=true&width=600&lines=Learning+in+public+%C2%B7+local-first+AI+tooling;LLM+apps+on+a+local+GPU;Agent+tooling+for+game+engines" />
 
 </div>
 
