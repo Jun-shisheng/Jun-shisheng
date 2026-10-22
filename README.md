@@ -36,7 +36,7 @@
 | **[Novel_AI](https://github.com/Jun-shisheng/Novel_AI)** | Word add-in for AI fiction writing — character polish, paragraph continuation, full-text summaries, via the DeepSeek API. |
 | **[Timbre_distillation](https://github.com/Jun-shisheng/Timbre_distillation)** | Voice-cloning pipeline: capture → UVR5 separation → Audition cleanup → RVC v2. |
 | **[UE_MCP](https://github.com/Jun-shisheng/UE_MCP)** | MCP tools that let Codex and Claude Code drive Unreal Engine workflows. |
-| **[Desktop_Pet](https://github.com/Jun-shisheng/Desktop_Pet)** · **[crosspet](https://github.com/Jun-shisheng/crosspet)** | Multi-pet desktop platform — pets mirror whichever AI you're using and react to its state. |
+| **[Desktop_Pet](https://github.com/Jun-shisheng/Desktop_Pet)** | Desktop-pet platform where multiple pets can interact and play with each other. |
 
 ## About
 
