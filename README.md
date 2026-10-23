@@ -18,7 +18,7 @@
 ## GitHub
 
 <p align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jun-shisheng&show_icons=true&theme=vue&include_all_commits=true&rank_icon=github&card_width=430" />
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jun-shisheng&show_icons=true&theme=vue&rank_icon=github&card_width=430" />
   <img width="49%" alt="Commit streak" src="https://streak-stats.demolab.com?user=Jun-shisheng&theme=vue&card_width=430" />
 </p>
 
