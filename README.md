@@ -6,11 +6,24 @@
 
 </div>
 
-## Hi, I'm Junshisheng
+<p align="center">
+  <img alt="followers" src="https://img.shields.io/github/followers/Jun-shisheng?style=flat-square&labelColor=f1f5f9&color=1f6feb&label=Followers" />
+  <img alt="total stars" src="https://img.shields.io/github/stars/Jun-shisheng?style=flat-square&labelColor=f1f5f9&color=1f6feb&label=Stars" />
+  <img alt="profile views" src="https://hits.sh/github.com/Jun-shisheng.svg?label=Profile%20Views&color=1f6feb&style=flat-square" />
+</p>
 
-I like keeping things local: models that run offline, data in plain folders, and as few round trips as possible. Most of what's here started as a small experiment, so expect a few rough edges.
+## GitHub
 
-Right now I'm most interested in local-first AI tooling, agent systems, and making game engines easier to automate.
+<p align="center">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Jun-shisheng&show_icons=true&theme=vue&rank_icon=github&card_width=430" />
+  <img width="49%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Jun-shisheng&theme=vue&card_width=430" />
+</p>
+
+## Stack
+
+<p align="center">
+  <img alt="Python, C#, Kotlin, C++, TypeScript, HTML, Linux, Docker, Git, GitHub, VS Code, Blender" src="https://skillicons.dev/icons?i=py,cs,kotlin,cpp,ts,html,linux,docker,git,github,vscode,blender&theme=light&perline=12" />
+</p>
 
 ## Projects
 
@@ -21,21 +34,3 @@ Right now I'm most interested in local-first AI tooling, agent systems, and maki
 | **Timbre_distillation** | A voice-cloning pipeline: capture, UVR5 separation, Audition cleanup, and RVC v2. |
 | **UE_MCP** | MCP tools that let coding agents drive Unreal Engine workflows. |
 | **Desktop_Pet** | A desktop-pet platform where multiple pets can interact and play together. |
-
-## Toolbox
-
-Python · C# · Kotlin · C++ · TypeScript · HTML · Linux · Docker · Git · VS Code · Blender
-
-## GitHub
-
-<p align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Jun-shisheng&show_icons=true&theme=vue&rank_icon=github&card_width=430" />
-  <img width="49%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Jun-shisheng&theme=vue&card_width=430" />
-</p>
-
-## About
-
-- Still learning. Most of what's here is small experiments rather than finished work.
-- I prefer keeping things local: models running offline, data in plain folders, as few round trips as possible.
-- Interested in agent tooling, game-engine automation, and AI-assisted creative work.
-- Corrections, issues and suggestions are always welcome.
